@@ -57,7 +57,35 @@ Two adults had thought that the multisensory approach is outstanding because it 
 
 ## Rollout and reflection
 
-We showed our app to one adult with dyslexia that we met before and experts in UI/UX design, and the result is far from satisfactory. Most of our interface isn't very intuitive, it can't stop or change the speed of text-to-speech, and there is something that needs improvement in our copywriting.
+We showed our app to one adult with dyslexia that we met before and experts in UI/UX design. They love how the OCR can correctly recognize which is the text of the image.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/VisionKit Digital Result.jpeg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/VisionKit Recognization.gif' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Thanks to VisionKit, it allows us to scan printed or written text precisely.
+</div>
+
+The users are a little bit overwhelmed when the OCR doesn't recognize the text automatically because they have to move the four corners for the corresponding area. They hope to arrange it by the sides rather than the corners.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/Not Intuitive Design 3.jpeg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/Not Intuitive Design 4.jpeg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    What users get and what users want (marked with yellow circle).
+</div>
+
+There is also the downside we had is our UX's result, which is far from satisfactory. Some of our interfaces aren't very intuitive, it can't stop or change the speed of text-to-speech, and there is something that needs improvement in our copywriting.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -71,7 +99,7 @@ We showed our app to one adult with dyslexia that we met before and experts in U
     Users accidentally go to the home screen when they're about to swipe up the drawer. It's a bad UX if we see someone struggles to use our app.
 </div>
 
-They end up criticize our not intuitive design and our copywriting rather than telling how it will be impactful for themselves. Before we validate our prototype to someone else, I think we need to reassure our pattern, does it looks familiar with the native interface design or not.
+Before we validate our prototype to someone else, I think we need to reassure our pattern. Start with questioning our design does it looks familiar with the native interface design or not.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

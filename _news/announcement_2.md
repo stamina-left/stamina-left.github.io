@@ -29,4 +29,4 @@ Our app has three main features, an optical character reader, a screen reader, a
     Screenshots of our apps.
 </div>
 
-We would be grateful if you could give it a shot and give us feedback if you don't mind. To install our app, <a href="https://apps.apple.com/us/app/readdy-reading-assistant/id1526676332" target="blank">visit our app at the App Store</a>.
+We would be grateful if you could give it a shot and give us feedback if you don't mind. To install our app, <a href="https://apps.apple.com/us/app/readdy-reading-assistant/id1526676332" target="blank">visit our app at the App Store</a>. To know more about how we made it, you can <a href="https://stamina-left.github.io/projects/1_project/" target="blank">read the project details on my project list</a>.
