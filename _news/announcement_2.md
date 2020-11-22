@@ -5,7 +5,7 @@ date: 2020-09-25 16:11:00-0400
 inline: false
 ---
 
-Readdy is an app that gives a better reading experience for someone who had difficulty reading builds upon the optical character reader, screen reader, and text adjustments that we provide. To give it a try, <a href="https://apps.apple.com/us/app/readdy-reading-assistant/id1526676332" target="blank">visit our app at the App Store</a>.
+Readdy is an app that gives a better reading experience for someone who had difficulty reading builds upon the optical character reader, screen reader, and text adjustments that we provide. To give it a try, <a href="https://apps.apple.com/us/app/readdy-reading-assistant/id1526676332" target="blank">visit our app at the App Store</a>. For more details on how we made this app, you can <a href="https://stamina-left.github.io/projects/1_project/" target="blank">read the project details on my project list</a>.
 
 ***
 
