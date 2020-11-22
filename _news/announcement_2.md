@@ -21,7 +21,7 @@ Our app has three main features, an optical character reader, a screen reader, a
         <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/readdy-v1-screenshots/2.png">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/readdy-v1-screenshots/3.png">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/readdy-v1-screenshots/3.PNG">
     </div>
 </div>
 
