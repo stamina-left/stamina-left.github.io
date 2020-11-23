@@ -12,7 +12,7 @@
 <meta property="og:title" content="{{ site.name }}" />
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
 {% if page.img %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+    <meta property="og:image" content="{{ site.url }}/{{ page.img }}" />
 {% endif %}
 <meta property="og:description" content="{{ page.title }}" />
 <meta property="og:image" content="{%- if page.og_image -%}{{ page.og_image }}{%- else -%}{{ site.og_image }}{%- endif -%}" />
