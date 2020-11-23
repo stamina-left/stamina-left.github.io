@@ -11,7 +11,7 @@ importance: 1
 
 It began when one of my friends having an urge to provides access to people with dyslexia. He explained how dyslexic struggles with slow reading, labored writing and delayed speaking because of what did they see when they read. To reduce the incidence of future problems in their learning, behavior, and health, they need an early childhood intervention. 
 
-But then we had some big questions, what about the dyslexic person who never had an early childhood intervention? How can they handle it from primary school until right now? Can they catch up just like an ordinary person? We want to find out how did they manage themselves without early intervention.
+But then we had some big questions, how about the dyslexic person who never had any early childhood intervention? How can they handle it from primary school until right now? Can they catch up just like an ordinary person? We want to find out how did they manage themselves without early intervention.
 
 ---
 
