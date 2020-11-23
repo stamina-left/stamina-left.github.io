@@ -7,6 +7,14 @@ importance: 1
 
 ---
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/project_thumbnail.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+---
+
 ## How did it all start?
 
 It began when one of my friends having an urge to provides access to people with dyslexia. He explained how dyslexic struggles with slow reading, labored writing and delayed speaking because of what did they see when they read. To reduce the incidence of future problems in their learning, behavior, and health, they need an early childhood intervention. 
