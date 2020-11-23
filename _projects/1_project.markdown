@@ -85,7 +85,7 @@ The users are a little bit overwhelmed when the OCR doesn't recognize the text a
     What users get and what users want (marked with yellow circle).
 </div>
 
-There is also the downside we had is our UX's result, which is far from satisfactory. Some of our interfaces aren't very intuitive, it can't stop or change the speed of text-to-speech, and there is something that needs improvement in our copywriting.
+There are also things to do with our app. The experts noticed that some of our interfaces aren't very intuitive, it can't stop or change the speed of text-to-speech, and there is something that needs improvement in our copywriting.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
