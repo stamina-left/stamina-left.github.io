@@ -3,7 +3,6 @@ layout: page
 title: Readdy - Reading Assistant
 description: An app that helps dyslexic reads documents or books very well.
 img: /assets/img/readdy-v1-screenshots/project_thumbnail.jpg
-thumbnail: /assets/img/readdy-v1-screenshots/project_thumbnail.jpg
 importance: 1
 
 ---
