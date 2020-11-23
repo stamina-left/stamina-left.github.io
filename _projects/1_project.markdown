@@ -3,15 +3,8 @@ layout: page
 title: Readdy - Reading Assistant
 description: An app that helps dyslexic reads documents or books very well.
 img: /assets/img/readdy-v1-screenshots/project_thumbnail.jpg
+thumbnail: /assets/img/readdy-v1-screenshots/project_thumbnail.jpg
 importance: 1
-
----
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/project_thumbnail.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
 
 ---
 
