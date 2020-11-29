@@ -2,7 +2,7 @@
 layout: page
 title: Readdy - Reading Assistant
 description: An app that helps dyslexic reads documents or books very well.
-img: /assets/img/readdy-v1-screenshots/project_thumbnail.jpg
+img: https://i.postimg.cc/s2WZ9jBK/project-thumbnail.jpg?thumbnail
 importance: 1
 
 ---
@@ -61,10 +61,10 @@ We showed our app to one adult with dyslexia that we met before and experts in U
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/VisionKit Digital Result.jpeg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'https://i.postimg.cc/5tMpcRM4/Vision-Kit-Digital-Result.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/VisionKit Recognization.gif' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'https://i.postimg.cc/TYPLNqLK/Vision-Kit-Recognization.gif' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -75,10 +75,10 @@ The users are a little bit overwhelmed when the OCR doesn't recognize the text a
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/Not Intuitive Design 3.jpeg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'https://i.postimg.cc/526zyqbh/Not-Intuitive-Design-3.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/Not Intuitive Design 4.jpeg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'https://i.postimg.cc/kgzbb65B/Not-Intuitive-Design-4.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -89,10 +89,10 @@ There are also things to do with our app. The experts noticed that some of our i
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/Not Intuitive Design 1.jpeg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'https://i.postimg.cc/NfNTQPq8/Not-Intuitive-Design-1.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/Not Intuitive Design 2.gif' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'https://i.postimg.cc/fLjtp8f9/Not-Intuitive-Design-2.gif' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -103,10 +103,10 @@ Before we validate our prototype to someone else, I think we need to reassure ou
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/Safari Reader Mode.gif' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'https://i.postimg.cc/HWz8tPxG/Safari-Reader-Mode.gif' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/readdy-v1-screenshots/Books Type Setting.gif' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'https://i.postimg.cc/Y0d4qjV2/Books-Type-Setting.gif' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
