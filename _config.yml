@@ -40,7 +40,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: stamina-left # your GitHub user name
-twitter_username: # your Twitter handle
+twitter_username: tla_trebla # your Twitter handle
 linkedin_username: albert-pangestu # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -60,7 +60,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: personal-journal  # your blog must have a name for it to show up in the nav bar
+blog_name: developer-notes  # your blog must have a name for it to show up in the nav bar
 blog_description: comes in handy
 permalink: /blog/:year/:title/
 
